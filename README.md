@@ -1,89 +1,165 @@
 # Ramasekharreddy-chagamreddy
 
 
-<h1 align="center">Hi 👋, I'm Chagamreddy Ramasekharreddy</h1>
 
-<h3 align="center">Aspiring Data Analyst | Python | SQL | Excel | Power BI</h3>
+# Chagamreddy Ramasekharreddy
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Excel;Power+BI+%7C+NumPy+%7C+Pandas;Turning+Data+into+Insights" alt="Typing SVG" />
-</p>
+### Aspiring Data Analyst | Python • SQL • Excel • Power BI
+
+Turning raw data into meaningful insights and supporting better business decisions through data analysis.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Graduate in Electronics & Communication Engineering.
-- 📊 Passionate about Data Analytics and Business Intelligence.
-- 🐍 Learning Python for Data Analysis.
-- 🗄️ Practicing SQL, MySQL and SQL Server.
-- 📈 Learning Microsoft Excel and Power BI.
-- 📚 Exploring NumPy and Pandas.
-- 🚀 Interested in building real-world data analytics projects.
-- 🎯 Goal: To become a professional Data Analyst.
+I'm a B.Tech Electronics and Communication Engineering graduate with a strong interest in Data Analytics and Business Intelligence.
+
+I'm currently building my skills in Python, SQL, Excel, and Power BI to understand data, identify patterns, solve problems, and create meaningful visualizations.
+
+I enjoy learning new technologies, working on practical projects, and improving my analytical and problem-solving skills.
+
+🎯 **Career Goal:** To start my career as a Data Analyst and grow into a skilled analytics professional.
 
 ---
 
-## 🛠️ Technical Skills
+## 💡 What I Do
 
-### Programming Languages
+| Area | What I Work On |
+|---|---|
+| 📊 Data Analysis | Data exploration, analysis, and reporting |
+| 🧹 Data Cleaning | Handling missing values and organizing datasets |
+| 🗄️ SQL & Databases | Writing queries, filtering, joins, and data management |
+| 📈 Data Visualization | Creating interactive dashboards using Power BI |
+| 🐍 Python | Programming fundamentals and data analysis with Python |
+| 📑 Excel | Formulas, functions, data cleaning, and analysis |
+
+---
+
+## ⚙️ My Workflow
+
+`Business Problem`
+      ↓
+`Data Collection`
+      ↓
+`Data Cleaning`
+      ↓
+`Data Analysis`
+      ↓
+`Data Visualization`
+      ↓
+`Insights & Reporting`
+      ↓
+`Decision Making`
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Data Analysis
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Data Analysis & Visualization
+### Data Analytics & Visualization
+
 <p>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+### Database & Tools
 
-### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-## 📂 My Projects
+## 📌 Featured Projects
 
-| Project Name | Technology |
+| Project | Description | Technologies |
+|---|---|---|
+| 📊 Sales Data Analysis | Analyze sales data and identify business trends | Python, Pandas, Excel |
+| 🗄️ Employee Management System | Manage employee records using CRUD operations | Python |
+| 🎓 Student Management System | Create and manage student records | Python |
+| 📈 Power BI Dashboard | Build interactive dashboards and visualize data | Power BI |
+| 🐍 NumPy Practice | Practice arrays, calculations, and numerical operations | Python, NumPy |
+| 🗃️ SQL Practice Projects | Practice queries, joins, filtering, and database operations | SQL |
+
+> Add links to your actual project repositories as you publish them. Only mark completed projects as finished.
+
+---
+
+## 🗺️ Learning Roadmap
+
+| Skill | Status |
 |---|---|
-| Sales Data Analysis | Excel |
-| Employee Database Management | SQL |
-| Student Management System | Python |
-| Data Cleaning & Analysis | Python, Pandas |
-| Data Analysis Projects | NumPy |
-| Sales Dashboard | Power BI |
-
-*Project repositories will be linked here as they are completed and uploaded.*
+| Python Fundamentals | 🔄 Learning |
+| NumPy | 🔄 Learning |
+| Pandas | 🔄 Learning |
+| Excel | 🔄 Practicing |
+| SQL & Database Management | 🔄 Practicing |
+| Power BI | 🔄 Learning |
+| Data Cleaning & EDA | ⏳ Upcoming |
+| Statistics for Data Analysis | ⏳ Upcoming |
+| Real-Time Data Analytics Projects | ⏳ Upcoming |
+| Advanced Analytics | ⏳ Future Goal |
 
 ---
 
-## 📚 Currently Learning
+## 📂 Popular Repositories
 
-- [x] Python Fundamentals
-- [x] SQL Fundamentals
-- [ ] Advanced SQL
-- [ ] NumPy
-- [ ] Pandas
-- [ ] Excel for Data Analytics
-- [ ] Power BI
-- [ ] Real-World Data Analytics Projects
+Explore my projects and learning repositories:
+
+- 🐍 [Python Practice](https://github.com/YOUR_GITHUB_USERNAME)
+- 📊 [Data Analytics Projects](https://github.com/YOUR_GITHUB_USERNAME)
+- 🗄️ [SQL Projects](https://github.com/YOUR_GITHUB_USERNAME)
+- 📈 [Power BI Dashboards](https://github.com/YOUR_GITHUB_USERNAME)
+- 🎓 [Student Management System](https://github.com/YOUR_GITHUB_USERNAME)
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Python programming skills
+- Practicing SQL queries and database concepts
+- Learning NumPy and Pandas
+- Improving Excel and Power BI skills
+- Building practical Data Analytics projects
+- Preparing for Data Analyst opportunities
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *"Learning every day, building projects, and growing through data."*
+height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
