@@ -7,7 +7,7 @@
 
 <div align="center">
 
-# Hi 👋, I'm YOUR NAME
+# Hi 👋, I'm Chagamreddy Ramasekharreddy
 
 ### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
